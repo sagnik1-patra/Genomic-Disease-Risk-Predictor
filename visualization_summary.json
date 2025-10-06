@@ -1,0 +1,6 @@
+{
+    "accuracy_graph": "accuracy_graph.png",
+    "confusion_heatmap": "confusion_heatmap.png",
+    "feature_concentration_graph": "feature_concentration_graph.png",
+    "prediction_graph": "prediction_graph.png"
+}
